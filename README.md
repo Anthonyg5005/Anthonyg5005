@@ -11,7 +11,7 @@ Currently the tools I have are very limited. I use a [low-end laptop][laptop] ru
 ### What I like to do
 I like messing around with virutal reality technology. Some of my favorite VR games are [Boneworks][slz], [Bonelab][slz], [Beat Saber][bs], and [VRChat][vrchat].\
 I play many other games too, you can find me on [Steam].\
-Like I've said before, I'm ususally messing around in VRChat with friends. I love the Avali race as you can see below, my VRChat avatar is an Avali (You can find more pictures over at [Twitter][fvali].\
+Like I've said before, I'm ususally messing around in VRChat with friends. I love the Avali race as you can see below, my VRChat avatar is an Avali *(You can find more pictures over at [Twitter][fvali])*.\
 ![fruits] ![fruits2]
 
 
