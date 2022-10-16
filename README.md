@@ -27,7 +27,7 @@ Shortcuts for links with markdown
 [laptop]: https://www.asus.com/us/Laptops/For-Home/Everyday-use/R543/techspec/  "Specs page for my laptop"
 [shadow]: https://shadow.tech "Learn more about Shadow Cloud Computing"
 [gcloud]: https://cloud.google.com "Learn more about the Google Cloud Platform"
-[azure]: https://azure.com "learn more about Microsoft Azure"
+[azure]: https://azure.com "Learn more about Microsoft Azure"
 [vrchat]: https://hello.vrchat.com "Learn more about VRChat"
 [bs]: htttps://beatsaber.com "Learn more about Beat Saber"
 [slz]: https://stresslevelzero.com "Learn more about Boneworks and Bonelab on Stress Level Zero's website"
