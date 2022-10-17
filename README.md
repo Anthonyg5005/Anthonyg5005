@@ -3,16 +3,16 @@ My name is Anthony Guijarro and I'm learning how to work with technology like ma
 
 ### About me
 I'm currently *trying* to learn how to use the tools I have when I have to time, as I'm really busy with life and stuff.\
-You can find me messing around in social games like [VRChat][vrc] and Neos VR *although I'm not social myself*.\
+You can find me messing around in social games like [VRChat][vrc] and [Neos VR][neos] *although I'm not social myself*.\
 If you ever need to contact me you can do so at anthony@gratlie.social 📫\
 Alternatively you may contact me on [Twitter][twt], [Discord][discord], or other accounts listed on my site www.gratlie.social (link currently redirecting to my linktree)\
-Currently the tools I have are very limited. I use a [low-end laptop][laptop] running [Arch][arch] with the [Mate][mate] desktop environment. Because I am very limited to the technology I have, I have to rely on cloud computing services like [Shadow][shadow], [Google Cloud][gcloud], and [Microsoft Azure][azure].
+Currently the tools I have are very limited. I use a [low-end laptop][laptop] running [Arch][arch] with the [Mate][mate] desktop environment. Since I am very limited to the technology I have, I have to rely on cloud computing services like [Shadow][shadow], [Google Cloud][gcloud], and [Microsoft Azure][azure].
 
 ### What I like to do
 I like messing around with virutal reality technology. Some of my favorite VR games are [Boneworks][slz], [Bonelab][slz], [Beat Saber][bs], and [VRChat][vrchat].\
 I play many other games too, you can find me on [Steam].\
-Like I've said before, I'm ususally messing around in VRChat with friends. I love the Avali race as you can see below, my VRChat avatar is an Avali *(You can find more pictures over at [Twitter][fvali])*.\
-![fruits] ![fruits2]
+Like I've said before, I'm ususally messing around in VRChat with friends. I love the [Avali race][birb] as you can see below, my VRChat avatar is an Avali *(You can find more pictures over on [Twitter][fvali])*.\
+![fruits] ![fruits2] ![fruits3]
 
 
 
@@ -29,10 +29,12 @@ Shortcuts for links with markdown
 [gcloud]: https://cloud.google.com "Learn more about the Google Cloud Platform"
 [azure]: https://azure.com "Learn more about Microsoft Azure"
 [vrchat]: https://hello.vrchat.com "Learn more about VRChat"
-[bs]: htttps://beatsaber.com "Learn more about Beat Saber"
+[bs]: https://beatsaber.com "Learn more about Beat Saber"
 [slz]: https://stresslevelzero.com "Learn more about Boneworks and Bonelab on Stress Level Zero's website"
 [discord]: https://discord.com/users/419377737149710346 "Link to my Discord profile"
 [steam]: https://steamcommunity.com/id/Anthonyg5005 "My Steam account"
 [fruits2]: https://user-images.githubusercontent.com/43303671/196015583-2a20f675-69ce-4ecf-a2ef-9216e4c6f783.png "My Avali named Fruits"
 [fruits3]: https://user-images.githubusercontent.com/43303671/196015590-23704a95-6e8b-421e-a7b3-20794642d0fb.png "My Avali named Fruits"
 [fvali]: https://twitter.com/Fruitsvali "My Avali Twitter page"
+[neos]: https://neos.com "Learn more about Neos"
+[birb]: https://avali.fandom.com/wiki/The_Official_Avali_Wiki "Learn more about Avali on the Avali wiki"
