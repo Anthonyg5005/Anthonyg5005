@@ -5,7 +5,7 @@ My name is Anthony Guijarro and I'm learning how to work with technology like ma
 I'm currently *trying* to learn how to use the tools I have when I have to time, as I'm really busy with life and stuff.\
 You can find me messing around in social games like [VRChat][vrc] and [Neos VR][neos] *although I'm not social myself*.\
 If you ever need to contact me you can do so at anthony@gratlie.social 📫\
-Alternatively you may contact me on [Twitter][twt], [Discord][discord], or other accounts listed on my site www.gratlie.social (link currently redirecting to my linktree)\
+Alternatively you may contact me on [Twitter][twt], [Discord][discord], or other accounts listed on my site www.gratlie.social (website not done yet)\
 Currently the tools I have are very limited. I use a [low-end laptop][laptop] running [Arch][arch] with the [Mate][mate] desktop environment. Since I am very limited to the technology I have, I have to rely on cloud computing services like [Shadow][shadow], [Google Cloud][gcloud], and [Microsoft Azure][azure].
 
 ### What I like to do
