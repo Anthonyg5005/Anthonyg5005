@@ -5,7 +5,7 @@ My name is Anthony Guijarro and I'm learning how to work with technology like ma
 I'm currently *trying* to learn how to use the tools I have when I have to time, as I'm really busy with life and stuff.\
 You can find me messing around in social games like [VRChat][vrc] and [Neos VR][neos] *although I'm not social myself*.\
 If you ever need to contact me you can do so at anthony@gratlie.social 📫\
-Alternatively you may contact me on [Twitter][twt], [Discord][discord], or other accounts listed on my site www.gratlie.social (website not done yet)
+Alternatively you may contact me on [Twitter][twt], [Discord][discord], or other accounts listed on my site [gratlie.social](https://gratlie.social)
 
 ### What I like to do
 I like messing around with virutal reality technology. Some of my favorite VR games are [Boneworks][slz], [Bonelab][slz], [Beat Saber][bs], and [VRChat][vrchat].\
