@@ -1,17 +1,20 @@
 ## Welcome to my GitHub profile!
-My name is Anthony Guijarro and I'm learning how to work with technology like machine learning and AI.
+I am Anthony Guijarro and I'm learning how to work with technology like machine learning and AI.
 
 ### About me
-I'm currently *trying* to learn how to use the tools I have when I have to time, as I'm really busy with life and stuff.\
-You can find me messing around in social games like [VRChat][vrc] and [Neos VR][neos] *although I'm not social myself*.\
-If you ever need to contact me you can do so at anthony@gratlie.social 📫\
-Alternatively you may contact me on [Twitter][twt], [Discord][discord], or other accounts listed on my site [gratlie.social](https://gratlie.social)
+I'm currently *trying* to learn how to use the tools I have when I have the time, as I'm really busy with life and stuff.\
+You can find me messing around in social games like [VRChat][vrc] and [Neos VR][neos] *although I'm not social myself*.
 
 ### What I like to do
 I like messing around with virutal reality technology. Some of my favorite VR games are [Boneworks][slz], [Bonelab][slz], [Beat Saber][bs], and [VRChat][vrchat].\
 I play many other games too, you can find me on [Steam].\
 Like I've said before, I'm ususally messing around in VRChat with friends. I love the [Avali race][birb] and my VRChat avatar is an Avali. (specifically the [Jerry Avali][jerry] by [Rai Kitamatsu][rai])
 
+### My current hardware:
+Model: HP Omen 40L\
+CPU: 12th Gen Intel i5\
+GPU: Nvidia series RTX 3060\
+RAM: 16 GB
 
 
 <!--
