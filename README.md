@@ -13,7 +13,7 @@ Like I've said before, I'm ususally messing around in VRChat with friends. I lov
 ### My current hardware:
 Model: HP Omen 40L\
 CPU: 12th Gen Intel i5\
-GPU: Nvidia series RTX 3060\
+GPU: Nvidia GeForce RTX 3060\
 RAM: 16 GB
 
 
