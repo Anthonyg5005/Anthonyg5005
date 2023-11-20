@@ -3,12 +3,11 @@ I am Anthony Guijarro and I'm learning how to work with technology like machine 
 
 ### About me
 I'm currently *trying* to learn how to use the tools I have when I have the time, as I'm really busy with life and stuff.\
-You can find me messing around in social games like [VRChat][vrc] and [Neos VR][neos] *although I'm not social myself*.
+You can find me messing around in social games like [VRChat][vrc] and [Resonite][neos] *although I'm not social myself*.
 
 ### What I like to do
 I like messing around with virutal reality technology. Some of my favorite VR games are [Boneworks][slz], [Bonelab][slz], [Beat Saber][bs], and [VRChat][vrchat].\
-I play many other games too, you can find me on [Steam].\
-Like I've said before, I'm ususally messing around in VRChat with friends.
+I play many other games too, you can find me on [Steam].
 
 ### My current hardware:
 Model: HP Omen 40L\
@@ -28,4 +27,4 @@ Shortcuts for links.
 [slz]: https://stresslevelzero.com "Learn more about Boneworks and Bonelab on Stress Level Zero's website"
 [discord]: https://discord.com/users/419377737149710346 "Link to my Discord profile"
 [steam]: https://steamcommunity.com/id/Anthonyg5005 "My Steam account"
-[neos]: https://neos.com "Learn more about Neos"
+[neos]: https://resonite.com/ "Learn more about Resonite"
