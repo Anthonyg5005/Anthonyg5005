@@ -14,7 +14,7 @@ I play many other games too, you can find me on [Steam].
 Model: HP Omen 40L\
 OS: Windows 11 Home\
 CPU: 12th Gen Intel i5\
-GPU: Nvidia GeForce RTX 3060 12GB\
+GPU: Nvidia GeForce RTX 3060 12GB, 8GB SWAP\
 RAM: 16GB, 99GB SWAP\
 Storge: 1TB M.2 SSD, 1TB Sata HDD, 500GB Sata SSD
 
