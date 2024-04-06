@@ -12,7 +12,7 @@ I play many other games too, you can find me on [Steam].
 ### My current hardware:
 1: Desktop\
 Model: HP Omen 40L\
-OS: Windows 11 Home
+OS: Windows 11 Home\
 CPU: 12th Gen Intel i5\
 GPU: Nvidia GeForce RTX 3060 12GB\
 RAM: 16GB, 99GB SWAP\
