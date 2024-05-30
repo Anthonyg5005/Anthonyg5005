@@ -20,10 +20,10 @@ Storge: 1TB M.2 SSD, 1TB Sata HDD, 500GB Sata SSD
 
 2: Laptop\
 Model: Lenovo IdeaPad 3\
-OS: EndeavourOS\
+OS: Windows 11 Home\
 CPU: 11th Gen Intel i5\
 GPU: Iris Xe Graphics\
-RAM: 12GB, 12GB SWAP\
+RAM: 12GB, Dynamic SWAP\
 Storage: 250GB M.2 SSD
 
 <!--
