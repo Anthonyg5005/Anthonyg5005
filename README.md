@@ -29,7 +29,7 @@ Storage: 250GB M.2 SSD
 <!--
 Shortcuts for links.
 -->
-[vrc]: https://vrchat.com/home/user/usr_47c79287-0a32-47f3-8d60-4dcf41c23049 "My VRChat profile"
+[vrc]: https://anthonyg5005.github.io/vrchat.html "My VRChat profile"
 [twt]: https://twitter.com/messages/compose?recipient_id=1167957172656988165 "Direct Message me on Twitter"
 [vrchat]: https://hello.vrchat.com "Learn more about VRChat"
 [bs]: https://beatsaber.com "Learn more about Beat Saber"
