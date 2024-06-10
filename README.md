@@ -20,7 +20,8 @@ Storge: 1TB M.2 SSD, 1TB Sata HDD, 500GB Sata SSD
 
 2: Laptop\
 Model: Lenovo IdeaPad 3\
-OS: Windows 11 Home\
+OS: Arch Linux\
+DE: Hyprland\
 CPU: 11th Gen Intel i5\
 GPU: Iris Xe Graphics\
 RAM: 12GB, Dynamic SWAP\
