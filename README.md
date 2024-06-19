@@ -21,8 +21,8 @@ Storge: 1TB M.2 SSD, 1TB Sata HDD, 500GB Sata SSD
 2: Laptop\
 Model: Lenovo IdeaPad 3\
 OS: Arch Linux\
-COMPOSITER: Hyprland\
-HL DOTS: Custom [HYDE](https://github.com/prasanthrangan/hyprdots)\
+Compositor: Hyprland\
+HL Dots: Custom [HYDE](https://github.com/prasanthrangan/hyprdots)\
 CPU: 11th Gen Intel i5\
 GPU: Iris Xe Graphics\
 RAM: 12GB, 4GB SWAP\
