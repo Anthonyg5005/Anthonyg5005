@@ -1,5 +1,5 @@
 ## Welcome to my GitHub profile!
-I am Anthony Guijarro and I'm learning how to work with technology like machine learning and AI, specifically generative natural language processing.
+I am Anthony Guijarro and I'm learning how to work with technology like machine learning and AI, specifically generative NLP/language models.
 
 ### About me
 I'm currently *trying* to learn how to use the tools I have when I have the time, as I'm really busy with life and stuff.\
