@@ -20,12 +20,10 @@ Storge: 1TB M.2 SSD, 1TB Sata HDD, 500GB Sata SSD
 
 2: Laptop\
 Model: Lenovo IdeaPad 3\
-OS: Arch Linux\
-Compositor: Hyprland\
-HL Dots: Custom [HYDE](https://github.com/prasanthrangan/hyprdots)\
+OS: Windows 11 Home ([Debloated](https://github.com/LeDragoX/Win-Debloat-Tools))\
 CPU: 11th Gen Intel i5\
 GPU: Iris Xe Graphics\
-RAM: 12GB, 4GB SWAP\
+RAM: 12GB, System Managed SWAP\
 Storage: 250GB M.2 SSD
 
 <!--
