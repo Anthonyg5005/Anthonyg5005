@@ -11,7 +11,7 @@ I play many other games too, you can find me on [Steam].
 
 ### My current hardware:
 1: Desktop\
-Model: HP Omen 40L\
+Model: [HP Omen 40L (2100716062)](https://www.bestbuy.com/site/hp-omen-40l-gaming-desktop-intel-core-i5-12400f-hyperx-16gb-memory-nvidia-geforce-rtx-3060-1tb-ssd-nightfall-black/6504335.p?skuId=6504335)\
 OS: Windows 11 Home\
 CPU: 12th Gen Intel i5\
 GPU: Nvidia GeForce RTX 3060 12GB, 8GB SWAP\
@@ -19,12 +19,25 @@ RAM: 16GB, 99GB SWAP\
 Storge: 1TB M.2 SSD, 1TB Sata HDD, 500GB Sata SSD
 
 2: Laptop\
-Model: Lenovo IdeaPad 3\
+Model: [Lenovo IdeaPad 3 (82h801dqus)](https://psref.lenovo.com/Detail/IdeaPad/IdeaPad_3_15ITL6?M=82h801dqus)\
 OS: Windows 11 Home ([Debloated](https://github.com/LeDragoX/Win-Debloat-Tools))\
 CPU: 11th Gen Intel i5\
 GPU: Iris Xe Graphics\
 RAM: 12GB, System Managed SWAP\
-Storage: 250GB M.2 SSD
+Storage: 256GB M.2 SSD
+
+3: Laptop (Motherboard only)\
+Model: [Asus VivoBook 15 (X540MA_R543MA)](https://www.asus.com/us/laptops/for-home/everyday-use/r543/techspec/)\
+OS: EndeavourOS (No DE)\
+CPU: Intel Celeron N4020\
+GPU: UHD Graphics 600\
+RAM: 4GB, 8GB SWAP\
+Storage: 160GB Sata HDD (USB)
+
+4: Phone\
+Model: [iPhone XS Max](https://support.apple.com/en-us/111880)\
+OS: iOS 17\
+Storage: 64GB
 
 <!--
 Shortcuts for links.
