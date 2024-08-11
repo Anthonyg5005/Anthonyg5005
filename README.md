@@ -36,7 +36,7 @@ OS: EndeavourOS (No DE)\
 CPU: Intel Celeron N4020\
 GPU: UHD Graphics 600\
 RAM: 4GB, 8GB SWAP\
-Storage: 160GB Sata HDD (USB)\
+Storage: 160GB Sata HDD\
 Purpose: Webserver
 
 ### 4: Phone
