@@ -7,7 +7,7 @@ You can find me messing around in social games like [VRChat][vrc] *although I'm 
 I love cats 🐾
 
 ### What I like to do
-I like messing around with virutal reality technology. Some of my favorite VR games are [Boneworks][slz], [Bonelab][slz], [Beat Saber][bs], and [VRChat][vrchat].\
+I like messing around with virutal reality technology. Some of my favorite VR games are [Boneworks][slz], [Bonelab][slz], [Beat Saber][bs], and [VRChat].\
 I play many other games too, you can find me on [Steam] and [Discord].\
 Modded Minecraft is also pretty fun. I personally prefer mods that add onto the game instead of changing it like extra mobs and dimentions.
 
