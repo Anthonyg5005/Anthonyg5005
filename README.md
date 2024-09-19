@@ -41,7 +41,7 @@ Purpose: Webserver
 
 ### 4: Phone
 Model: [iPhone XS Max](https://support.apple.com/en-us/111880)\
-OS: iOS 17\
+OS: iOS 18\
 Storage: 64GB\
 Purpose: communication, media
 
