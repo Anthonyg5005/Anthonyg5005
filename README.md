@@ -8,7 +8,7 @@ I love cats 🐾
 
 ### What I like to do
 I like messing around with virutal reality technology. Some of my favorite VR games are [Boneworks][slz], [Bonelab][slz], [Beat Saber][bs], and [VRChat][vrchat].\
-I play many other games too, you can find me on [Steam].\
+I play many other games too, you can find me on [Steam] and [Discord].\
 Modded Minecraft is also pretty fun. I personally prefer mods that add onto the game instead of changing it like extra mobs and dimentions.
 
 ## My current hardware:
@@ -48,11 +48,11 @@ Purpose: communication, media
 <!--
 Shortcuts for links.
 -->
-[vrc]: https://anthonyg5005.github.io/vrchat.html "My VRChat profile"
+[vrc]: https://anthonyg5005.github.io/vrchat "My VRChat profile"
 [twt]: https://twitter.com/messages/compose?recipient_id=1167957172656988165 "Direct Message me on Twitter"
 [vrchat]: https://hello.vrchat.com "Learn more about VRChat"
 [bs]: https://beatsaber.com "Learn more about Beat Saber"
 [slz]: https://stresslevelzero.com "Learn more about Boneworks and Bonelab on Stress Level Zero's website"
-[discord]: https://discord.com/users/419377737149710346 "Link to my Discord profile"
+[discord]: https://anthonyg5005.github.io/discord "Link to my Discord profile"
 [steam]: https://steamcommunity.com/id/Anthonyg5005 "My Steam account"
 [neos]: https://resonite.com/ "Learn more about Resonite"
