@@ -21,7 +21,7 @@ RAM: 16GB, 99GB SWAP\
 Storge: 1TB M.2 SSD, 1TB Sata HDD, 500GB Sata SSD\
 Purpose: Main computer, programming, media, gaming
 
-### 2: Laptop
+### 2: Laptop (currently disabled)
 Model: [Lenovo IdeaPad 3 (82h801dqus)](https://psref.lenovo.com/Detail/IdeaPad/IdeaPad_3_15ITL6?M=82h801dqus)\
 OS: Windows 11 Home [(Debloated)](https://github.com/LeDragoX/Win-Debloat-Tools)\
 CPU: 11th Gen Intel i5\
