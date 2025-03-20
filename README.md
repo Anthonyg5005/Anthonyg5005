@@ -21,14 +21,14 @@ RAM: 16GB, 99GB SWAP\
 Storge: 1TB M.2 SSD, 1TB Sata HDD, 500GB Sata SSD\
 Purpose: Main computer, programming, media, gaming
 
-### 2: Laptop (currently disabled)
+### 2: Laptop (Bottom half only)
 Model: [Lenovo IdeaPad 3 (82h801dqus)](https://psref.lenovo.com/Detail/IdeaPad/IdeaPad_3_15ITL6?M=82h801dqus)\
 OS: Windows 11 Home [(Debloated)](https://github.com/LeDragoX/Win-Debloat-Tools)\
 CPU: 11th Gen Intel i5\
 GPU: Iris Xe Graphics\
 RAM: 12GB, System Managed SWAP\
 Storage: 256GB M.2 SSD\
-Purpose: Media and web, light games
+Purpose: None
 
 ### 3: Laptop (Motherboard only)
 Model: [Asus VivoBook 15 (X540MA_R543MA)](https://www.asus.com/us/laptops/for-home/everyday-use/r543/techspec/)\
@@ -37,12 +37,12 @@ CPU: Intel Celeron N4020\
 GPU: UHD Graphics 600\
 RAM: 4GB, 8GB SWAP\
 Storage: 160GB Sata HDD\
-Purpose: Webserver
+Purpose: None
 
 ### 4: Phone
-Model: [iPhone XS Max](https://support.apple.com/en-us/111880)\
-OS: iOS 18\
-Storage: 64GB\
+Model: [Google Pixel 6a](https://www.gsmarena.com/google_pixel_6a-11229.php)\
+OS: Android 15\
+Storage: 128GB\
 Purpose: communication, media
 
 <!--
