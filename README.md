@@ -28,7 +28,7 @@ CPU: 11th Gen Intel i5\
 GPU: Iris Xe Graphics\
 RAM: 12GB, System Managed SWAP\
 Storage: 256GB M.2 SSD\
-Purpose: None
+Purpose: [wireless keyboard for desktop](http://aka.ms/mm)
 
 ### 3: Laptop (Motherboard only)
 Model: [Asus VivoBook 15 (X540MA_R543MA)](https://www.asus.com/us/laptops/for-home/everyday-use/r543/techspec/)\
