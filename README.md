@@ -2,14 +2,13 @@
 I am Anthony Guijarro and I'm learning how to work with technology like machine learning and AI, specifically generative NLP/language models.
 
 ### About me
-I'm currently *trying* to learn how to use the tools I have when I have the time, as I'm really busy with life and stuff.\
-You can find me messing around in social games like [VRChat][vrc] *although I'm not social myself*.\
+I'm currently *trying* to learn how to use the tools I have when I have the time.\
 I love cats 🐾
 
 ### What I like to do
 I like messing around with virutal reality technology. Some of my favorite VR games are [Boneworks][slz], [Bonelab][slz], [Beat Saber][bs], and [VRChat].\
 I play many other games too, you can find me on [Steam] and [Discord].\
-Modded Minecraft is also pretty fun. I personally prefer mods that add onto the game instead of changing it like extra mobs and dimentions.
+Modded Minecraft is also pretty fun.
 
 ## My current hardware:
 ### 1: Desktop
