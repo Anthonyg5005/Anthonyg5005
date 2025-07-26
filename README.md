@@ -49,7 +49,7 @@ Purpose: None
 
 ### 5: Phone
 Model: [Google Pixel 6a](https://www.gsmarena.com/google_pixel_6a-11229.php)\
-OS: Android 15\
+OS: Android 16 (QPR1 Beta 3)\
 Storage: 128GB\
 Purpose: Communication, media
 
