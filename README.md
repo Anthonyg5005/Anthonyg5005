@@ -22,7 +22,7 @@ Purpose: Main computer, programming, media, games
 
 ### 2: Laptop Workstation
 Model: [Lenovo Thinkpad P71 (type 20HK)](https://psref.lenovo.com/Detail/ThinkPad_P71?M=20HK000N**)\
-OS: Windows 11 Pro [(Debloated)](https://winhance.net/)\
+OS: Windows 11 Pro [(Debloated)](https://github.com/Raphire/Win11Debloat)\
 CPU: 7th Gen Intel i7\
 GPU: Nvidia Quadro P4000 Mobile\
 RAM: 48GB, System Managed SWAP\
