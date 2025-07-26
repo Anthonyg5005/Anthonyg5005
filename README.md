@@ -18,40 +18,46 @@ CPU: 12th Gen Intel i5\
 GPU: Nvidia GeForce RTX 3060 12GB, 8GB SWAP\
 RAM: 16GB, 99GB SWAP\
 Storge: 1TB M.2 SSD, 1TB Sata HDD, 500GB Sata SSD\
-Purpose: Main computer, programming, media, gaming
+Purpose: Main computer, programming, media, games
 
-### 2: Laptop (Bottom half only)
+### 2: Laptop Workstation
+Model: [Lenovo Thinkpad P71 (type 20HK)](https://psref.lenovo.com/Detail/ThinkPad_P71?M=20HK000N**)\
+OS: Windows 11 Pro [(Debloated)](https://winhance.net/)\
+CPU: 7th Gen Intel i7\
+GPU: Nvidia Quadro P4000 Mobile\
+RAM: 48GB, System Managed SWAP\
+Storage: 512GB M.2 SSD, 256GB M.2 SSD\
+Purpose: Portable computer, games, media
+
+### 3: Laptop (Bottom half only)
 Model: [Lenovo IdeaPad 3 (82h801dqus)](https://psref.lenovo.com/Detail/IdeaPad/IdeaPad_3_15ITL6?M=82h801dqus)\
 OS: Windows 11 Home [(Debloated)](https://github.com/LeDragoX/Win-Debloat-Tools)\
 CPU: 11th Gen Intel i5\
 GPU: Iris Xe Graphics\
 RAM: 12GB, System Managed SWAP\
 Storage: 256GB M.2 SSD\
-Purpose: [wireless keyboard for desktop](http://aka.ms/mm)
+Purpose: [Wireless keyboard for desktop](http://aka.ms/mm)
 
-### 3: Laptop (Motherboard only)
+### 4: Laptop (Motherboard only)
 Model: [Asus VivoBook 15 (X540MA_R543MA)](https://www.asus.com/us/laptops/for-home/everyday-use/r543/techspec/)\
-OS: EndeavourOS (No DE)\
+OS: None\
 CPU: Intel Celeron N4020\
 GPU: UHD Graphics 600\
 RAM: 4GB, 8GB SWAP\
 Storage: 160GB Sata HDD\
 Purpose: None
 
-### 4: Phone
+### 5: Phone
 Model: [Google Pixel 6a](https://www.gsmarena.com/google_pixel_6a-11229.php)\
 OS: Android 15\
 Storage: 128GB\
-Purpose: communication, media
+Purpose: Communication, media
 
 <!--
 Shortcuts for links.
 -->
-[vrc]: https://anthonyg5005.github.io/vrchat "My VRChat profile"
-[twt]: https://twitter.com/messages/compose?recipient_id=1167957172656988165 "Direct Message me on Twitter"
 [vrchat]: https://hello.vrchat.com "Learn more about VRChat"
 [bs]: https://beatsaber.com "Learn more about Beat Saber"
 [slz]: https://stresslevelzero.com "Learn more about Boneworks and Bonelab on Stress Level Zero's website"
 [discord]: https://anthonyg5005.github.io/discord "Link to my Discord profile"
 [steam]: https://steamcommunity.com/id/Anthonyg5005 "My Steam account"
-[neos]: https://resonite.com/ "Learn more about Resonite"
