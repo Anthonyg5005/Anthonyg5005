@@ -30,7 +30,7 @@ Storage: 512GB M.2 SSD, 256GB M.2 SSD\
 Purpose: Portable computer, games, media
 
 ### 3: Laptop (Bottom half only)
-Model: [Lenovo IdeaPad 3 (82h801dqus)](https://psref.lenovo.com/Detail/IdeaPad/IdeaPad_3_15ITL6?M=82h801dqus)\
+Model: [Lenovo IdeaPad 3 (82h801dqus)](IdeaPad_3_15ITL6-82H801DQUS-Specification-20260104080225.pdf)\
 OS: Windows 11 Home [(Debloated)](https://github.com/LeDragoX/Win-Debloat-Tools)\
 CPU: 11th Gen Intel i5\
 GPU: Iris Xe Graphics\
