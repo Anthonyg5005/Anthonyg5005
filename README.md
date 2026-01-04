@@ -36,16 +36,17 @@ CPU: 11th Gen Intel i5\
 GPU: Iris Xe Graphics\
 RAM: 12GB, System Managed SWAP\
 Storage: 256GB M.2 SSD\
-Purpose: [Wireless keyboard for desktop](http://aka.ms/mm)
+Purpose: Background tasks
 
 ### 4: Laptop (Motherboard only)
 Model: [Asus VivoBook 15 (X540MA_R543MA)](https://www.asus.com/us/laptops/for-home/everyday-use/r543/techspec/)\
-OS: None\
+OS: Arch Linux\
+WM: i3\
 CPU: Intel Celeron N4020\
 GPU: UHD Graphics 600\
 RAM: 4GB, 8GB SWAP\
 Storage: 160GB Sata HDD\
-Purpose: None
+Purpose: Clock
 
 ### 5: Phone
 Model: [Google Pixel 6a](https://www.gsmarena.com/google_pixel_6a-11229.php)\
