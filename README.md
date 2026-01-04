@@ -12,7 +12,7 @@ Modded Minecraft is also pretty fun.
 
 ## My current hardware:
 ### 1: Desktop
-Model: [HP Omen 40L (2100716062)](https://www.bestbuy.com/site/hp-omen-40l-gaming-desktop-intel-core-i5-12400f-hyperx-16gb-memory-nvidia-geforce-rtx-3060-1tb-ssd-nightfall-black/6504335.p?skuId=6504335)\
+Model: [HP Omen 40L (2100716062)](https://support.hp.com/us-en/document/ish_6054966-6055037-16)\
 OS: Windows 11 Pro\
 CPU: 12th Gen Intel i5\
 GPU: Nvidia GeForce RTX 3060 12GB, 8GB SWAP\
