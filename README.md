@@ -13,7 +13,7 @@ Modded Minecraft is also pretty fun.
 ## My current hardware:
 ### 1: Desktop
 Model: [HP Omen 40L (2100716062)](https://www.bestbuy.com/site/hp-omen-40l-gaming-desktop-intel-core-i5-12400f-hyperx-16gb-memory-nvidia-geforce-rtx-3060-1tb-ssd-nightfall-black/6504335.p?skuId=6504335)\
-OS: Windows 11 Home\
+OS: Windows 11 Pro\
 CPU: 12th Gen Intel i5\
 GPU: Nvidia GeForce RTX 3060 12GB, 8GB SWAP\
 RAM: 16GB, 99GB SWAP\
@@ -22,7 +22,7 @@ Purpose: Main computer, programming, media, games
 
 ### 2: Laptop Workstation
 Model: [Lenovo Thinkpad P71 (type 20HK)](https://psref.lenovo.com/Detail/ThinkPad_P71?M=20HK000N**)\
-OS: Windows 11 Pro [(Debloated)](https://github.com/Raphire/Win11Debloat)\
+OS: Windows 11 Pro [(Debloated)](https://docs.atlasos.net/)\
 CPU: 7th Gen Intel i7\
 GPU: Nvidia Quadro P4000 Mobile\
 RAM: 48GB, System Managed SWAP\
