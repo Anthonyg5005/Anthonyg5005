@@ -16,7 +16,7 @@ Model: [HP Omen 40L (GT21-0014)](https://support.hp.com/us-en/document/ish_60549
 OS: Windows 11 Pro\
 CPU: 12th Gen Intel i5\
 GPU: Nvidia GeForce RTX 3060 12GB, 8GB SWAP\
-RAM: 16GB, 99GB SWAP\
+RAM: 16GB, System Managed SWAP\
 Storge: 1TB M.2 SSD, 1TB Sata HDD, 500GB Sata SSD\
 Purpose: Main computer, programming, media, games
 
