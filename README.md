@@ -1,12 +1,11 @@
 ## Welcome to my GitHub profile!
-I am Anthony Guijarro and I'm learning how to work with technology like machine learning and AI, specifically generative NLP/language models.
+I am Anthony Guijarro and I have an interest in conversational language models and NLP in general.
 
 ### About me
-I'm currently *trying* to learn how to use the tools I have when I have the time.\
 I love cats 🐾
 
 ### What I like to do
-I like messing around with virutal reality technology. Some of my favorite VR games are [Boneworks][slz], [Bonelab][slz], [Beat Saber][bs], and [VRChat].\
+I like messing around with virtual reality technology. Some of my favorite VR games are [Boneworks][slz], [Bonelab][slz], [Beat Saber][bs], and [VRChat].\
 I play many other games too, you can find me on [Steam] and [Discord].\
 Modded Minecraft is also pretty fun.
 
@@ -17,12 +16,12 @@ OS: Windows 11 Pro\
 CPU: 12th Gen Intel i5\
 GPU: Nvidia GeForce RTX 3060 12GB, 8GB SWAP\
 RAM: 16GB, System Managed SWAP\
-Storge: 1TB M.2 SSD, 1TB Sata HDD, 500GB Sata SSD\
+Storge: 1TB M.2 SSD, 256GB M.2 SSD, 1TB Sata HDD, 500GB Sata SSD\
 Purpose: Main computer, programming, media, games
 
 ### 2: Laptop Workstation
 Model: [Lenovo Thinkpad P71 (type 20HK)](https://psref.lenovo.com/Detail/ThinkPad_P71?M=20HK000N**)\
-OS: Windows 11 Pro [(Debloated)](https://docs.atlasos.net/)\
+OS: Windows 11 Pro\
 CPU: 7th Gen Intel i7\
 GPU: Nvidia Quadro P4000 Mobile\
 RAM: 48GB, System Managed SWAP\
@@ -31,26 +30,26 @@ Purpose: Portable computer, games, media
 
 ### 3: Laptop (Bottom half only)
 Model: [Lenovo IdeaPad 3 (82h801dqus)](IdeaPad_3_15ITL6-82H801DQUS-Specification-20260104080225.pdf)\
-OS: Windows 11 Home [(Debloated)](https://github.com/LeDragoX/Win-Debloat-Tools)\
+OS: Windows 11 Home [(Debloated)](https://github.com/ntdevlabs/tiny11builder)\
 CPU: 11th Gen Intel i5\
 GPU: Iris Xe Graphics\
 RAM: 12GB, System Managed SWAP\
-Storage: 256GB M.2 SSD\
+Storage: 160Gb Sata HDD\
 Purpose: Background tasks
 
 ### 4: Laptop (Motherboard only)
 Model: [Asus VivoBook 15 (X540MA_R543MA)](https://www.asus.com/us/laptops/for-home/everyday-use/r543/techspec/)\
 OS: Arch Linux\
-WM: i3\
+WM: Sway\
 CPU: Intel Celeron N4020\
 GPU: UHD Graphics 600\
-RAM: 4GB, 8GB SWAP\
-Storage: 160GB Sata HDD\
-Purpose: Clock
+RAM: 4GB\
+Storage: 8GB Flash Drive\
+Purpose: NTP Synced Clock
 
 ### 5: Phone
 Model: [Google Pixel 6a](https://www.gsmarena.com/google_pixel_6a-11229.php)\
-OS: Android 16\
+OS: Android 17\
 Storage: 128GB\
 Purpose: Communication, media
 
