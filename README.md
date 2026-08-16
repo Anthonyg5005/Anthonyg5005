@@ -25,7 +25,7 @@ OS: Windows 11 Pro\
 CPU: 7th Gen Intel i7\
 GPU: Nvidia Quadro P4000 Mobile\
 RAM: 48GB, System Managed SWAP\
-Storage: 512GB M.2 SSD, 256GB M.2 SSD\
+Storage: 512GB M.2 SSD, 256GB M.2 SSD, 1TB Sata HDD\
 Purpose: Portable computer, games, media
 
 ### 3: Laptop (Bottom half only)
